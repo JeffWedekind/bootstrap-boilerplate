@@ -7,9 +7,11 @@ A basic HTML5 Bootstrap template, including the required CSS and JS for bootstra
 - Understanding of bootstrap [Bootstrap] (https://getbootstrap.com/)
 - Strong understanding of HTML 5.
 
-## Instalation
+## Installation
+- A Terminal
 - GIT [GIT] (https://git-scm.com/)
 - Clone repository [GIT Clone] (https://github.com/JeffWedekind/bootstrap-boilerplate/tree/main)
+- Text Editor or VS Code [VS Code] (https://code.visualstudio.com/)
 
 ## Contributing
 
